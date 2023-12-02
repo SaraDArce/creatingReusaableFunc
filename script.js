@@ -68,5 +68,3 @@ let mixArray = stringLongerThanNum(
   3
 );
 console.log("Longer String than Number: " + mixArray);
-// let mixArray = stringLongerThanNum([‘hello’, ‘wonderful’, ‘cool’, ‘hi’, ‘bye’],3);
-// console.log(“Longer Strings than number:“,mixArray);
